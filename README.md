@@ -26,7 +26,7 @@ O layout está disponível nos formatos:
 
 Você pode acessar o projeto online por meio do GitHub Pages:
 
-🔗 [Link para o projeto ao vivo](https://seu-usuario.github.io/nome-do-projeto)
+🔗 [Link para o projeto ao vivo](https://daianagilli.github.io/nft-preview-card-component/)
 
 > Substitua o link acima com o endereço do seu GitHub Pages.
 
