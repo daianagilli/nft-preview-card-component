@@ -1,7 +1,5 @@
 # Componente de Cartão NFT - Desafio Frontend Mentor
 
-![Prévia do design do componente](./preview.jpg)
-
 ## 📝 Descrição
 
 Este é um desafio do [Frontend Mentor](https://www.frontendmentor.io/) que propõe a construção de um **componente de cartão de visualização de NFT**. O objetivo é replicar o design fornecido o mais fielmente possível, utilizando **HTML** e **CSS**.
